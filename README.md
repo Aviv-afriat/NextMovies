@@ -14,7 +14,7 @@
 
 1. In the project directory, you can run:
 2. Install npm modules: `npm install`
-3. Start up the server: `npm start`
+3. Start up the client: `npm start`
 4. Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.\
